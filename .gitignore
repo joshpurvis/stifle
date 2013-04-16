@@ -1,0 +1,4 @@
+.idea/*
+.fuse_hidden*
+*.pyc
+.webassets-cache
